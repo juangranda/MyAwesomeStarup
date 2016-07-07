@@ -1,0 +1,24 @@
+﻿.jumbotron{
+    
+    background-size:cover;
+    background-image: url(Images/lobster-bg.jpg);
+    background-position: center center;
+    color: #313131;
+}
+.feature{
+    text-align: center;
+}
+.feature .glyphicon{
+    font-size:400%;
+}
+.feature .glyphicon-apple{
+    color: red;
+}
+[role=button]{
+   background-color: #313131;
+   border-color: #313131;
+}
+.button{
+    color:black;
+    background-color:black;
+}
