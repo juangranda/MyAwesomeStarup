@@ -1,9 +1,10 @@
 ﻿.jumbotron{
     
     background-size:cover;
-    background-image: url(Images/lobster-bg.jpg);
+    background-image: url(Images/recording-studio.jpg);
     background-position: center center;
-    color: #313131;
+    color: #cbcbcb;
+    margin-top:-20px;
 }
 .feature{
     text-align: center;
@@ -15,10 +16,21 @@
     color: red;
 }
 [role=button]{
-   background-color: #313131;
-   border-color: #313131;
+   /*background-color: #313131;
+   border-color: #313131;*/
 }
 .button{
+    /*color:black;
+    background-color:black;*/
+}
+.row{
     color:black;
-    background-color:black;
+    margin-top:50px;
+    margin-left:20px;
+    margin-right:20px;    
+}
+.col-lg-4{
+    text-align:center;
+    line-height:30px;
+
 }

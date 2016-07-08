@@ -1,0 +1,15 @@
+﻿.jumbotron {
+    height:1000px;
+    margin-top:-20px;
+    margin-bottom:-20px;
+    background-color:#29363C;
+    /*background-color:#431c5d;*/
+    color:#bccbde;
+    text-align:center;
+    padding-top:200px;
+}
+.btn-lg{
+    background-color:#222222;
+    color:#BCCBDE;
+    
+}
